@@ -1,0 +1,3 @@
+B_Phuket_3073_2013_NP	GenerateGTF	gene	47	1729	.	+	.	gene_id "NP";
+B_Phuket_3073_2013_NP	GenerateGTF	transcript	47	1729	.	+	.	gene_id "NP";
+B_Phuket_3073_2013_NP	GenerateGTF	CDS	47	1729	.	+	0	gene_id "NP";transcript_id "NP";

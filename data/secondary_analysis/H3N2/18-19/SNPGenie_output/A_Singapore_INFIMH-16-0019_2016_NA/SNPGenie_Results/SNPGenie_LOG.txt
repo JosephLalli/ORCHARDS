@@ -1,0 +1,579 @@
+file	product	site	LOG
+NA	NA	NA	SNPGenie initiated at local time Sun Apr 18 06:41:33 2021
+temp_vcf4_19VR002740.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002740.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002740.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR002740.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002740.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002740.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR002744.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003000.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003000.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003000.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003000.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	96	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	967	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	N/A	A total of 5 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	96	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	967	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003002.vcf	NA	N/A	A total of 5 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003004.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003124.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003216.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003219.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003237.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003237.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003237.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003237.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003316.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003316.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003316.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003316.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003317.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003373.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	N/A	A total of 7 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003464.vcf	NA	N/A	A total of 7 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	952	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1309	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	N/A	A total of 14 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	952	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	1309	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003468.vcf	NA	N/A	A total of 14 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003542.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003675.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003675.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003675.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003675.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	754	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	N/A	A total of 14 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	754	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003676.vcf	NA	N/A	A total of 14 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003677.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	619	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	667	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	952	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	N/A	A total of 16 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	453	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	619	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	667	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	952	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003678.vcf	NA	N/A	A total of 16 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	280	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	502	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	280	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	502	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003752.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	619	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	754	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	N/A	A total of 12 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	148	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	231	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	470	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	619	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	754	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	760	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	914	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003890.vcf	NA	N/A	A total of 12 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	667	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	667	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003891.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003909.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003913.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR003920.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	N/A	A total of 10 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	384	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	425	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	770	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	859	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	937	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1009	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1018	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1024	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004002.vcf	NA	N/A	A total of 10 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	934	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	N/A	A total of 5 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	934	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004328.vcf	NA	N/A	A total of 5 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004458.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004458.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004458.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004458.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004462.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	182	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004469.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	993	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004555.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004571.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004571.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004571.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004571.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004578.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004578.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004578.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004578.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004825.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004825.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR004825.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR004825.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005044.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005044.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005044.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005044.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005160.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005334.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005334.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005334.vcf	NA	345	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005334.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005339.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005339.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005339.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005339.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005340.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	1075	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	1075	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005507.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005510.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005510.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005510.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005510.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	1324	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	1324	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005511.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005512.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005512.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005512.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005512.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005517.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005517.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005517.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005517.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005524.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005524.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005524.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005524.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005785.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005785.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005785.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005785.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005803.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005803.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005803.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005803.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	925	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1126	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	N/A	A total of 8 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	925	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1126	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005946.vcf	NA	N/A	A total of 8 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005949.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005949.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR005949.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR005949.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	1324	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	1324	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	1354	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006108.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006112.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006112.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006112.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006112.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006113.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006113.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006113.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006113.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	916	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	1165	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	916	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	1165	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006329.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006332.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	137	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	175	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	137	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	175	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	1044	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006520.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006679.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006679.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006679.vcf	NA	1231	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006679.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	763	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	763	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR006682.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	175	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	1075	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	175	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	1075	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007032.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007126.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007191.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	1338	Variant 'T' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007270.vcf	NA	N/A	A total of 3 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007359.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007474.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	136	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007493.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR007749.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	871	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	985	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008338.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	381	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	379	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	381	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	703	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	1163	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR008902.vcf	NA	N/A	A total of 6 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	381	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	949	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	381	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	489	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	493	Variant 'G' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	949	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_19VR009188.vcf	NA	N/A	A total of 4 variants have been excluded because they fall below the minimum minor allele frequency
+NA	NA	NA	SNPGenie completed at local time Sun Apr 18 06:52:15 2021. The process took 642.00 secs, i.e., 10 mins and 42.00 secs

@@ -1,0 +1,3 @@
+B_Phuket_3073_2013_PA	GenerateGTF	gene	16	2196	.	+	.	gene_id "PA";
+B_Phuket_3073_2013_PA	GenerateGTF	transcript	16	2196	.	+	.	gene_id "PA";
+B_Phuket_3073_2013_PA	GenerateGTF	CDS	16	2196	.	+	0	gene_id "PA";transcript_id "PA";

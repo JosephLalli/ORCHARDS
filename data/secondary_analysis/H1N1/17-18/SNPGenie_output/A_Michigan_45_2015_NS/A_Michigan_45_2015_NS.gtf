@@ -1,0 +1,7 @@
+A_Michigan_45_2015_NS	GenerateGTF	gene	15	852	.	+	.	gene_id "NEP";
+A_Michigan_45_2015_NS	GenerateGTF	transcript	15	852	.	+	.	gene_id "NEP";
+A_Michigan_45_2015_NS	GenerateGTF	CDS	15	44	.	+	0	gene_id "NEP";transcript_id "NEP";
+A_Michigan_45_2015_NS	GenerateGTF	CDS	517	852	.	+	1	gene_id "NEP";transcript_id "NEP";
+A_Michigan_45_2015_NS	GenerateGTF	gene	15	674	.	+	.	gene_id "NS1";
+A_Michigan_45_2015_NS	GenerateGTF	transcript	15	674	.	+	.	gene_id "NS1";
+A_Michigan_45_2015_NS	GenerateGTF	CDS	15	674	.	+	0	gene_id "NS1";transcript_id "NS1";

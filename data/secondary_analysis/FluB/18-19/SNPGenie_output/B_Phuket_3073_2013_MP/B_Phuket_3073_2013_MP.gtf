@@ -1,0 +1,6 @@
+B_Phuket_3073_2013_MP	GenerateGTF	gene	8	754	.	+	.	gene_id "M1";
+B_Phuket_3073_2013_MP	GenerateGTF	transcript	8	754	.	+	.	gene_id "M1";
+B_Phuket_3073_2013_MP	GenerateGTF	CDS	8	754	.	+	0	gene_id "M1";transcript_id "M1";
+B_Phuket_3073_2013_MP	GenerateGTF	gene	754	1083	.	+	.	gene_id "BM2";
+B_Phuket_3073_2013_MP	GenerateGTF	transcript	754	1083	.	+	.	gene_id "BM2";
+B_Phuket_3073_2013_MP	GenerateGTF	CDS	754	1083	.	+	0	gene_id "BM2";transcript_id "BM2";

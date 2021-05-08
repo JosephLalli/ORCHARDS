@@ -1,0 +1,7 @@
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	gene	14	995	.	+	.	gene_id "M2";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	transcript	14	995	.	+	.	gene_id "M2";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	CDS	14	39	.	+	0	gene_id "M2";transcript_id "M2";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	CDS	728	995	.	+	0	gene_id "M2";transcript_id "M2";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	gene	14	772	.	+	.	gene_id "M1";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	transcript	14	772	.	+	.	gene_id "M1";
+A_Singapore_INFIMH-16-0019_2016_MP	GenerateGTF	CDS	14	772	.	+	0	gene_id "M1";transcript_id "M1";

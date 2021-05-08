@@ -1,0 +1,7 @@
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	gene	13	2163	.	+	.	gene_id "PA";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	transcript	13	2163	.	+	.	gene_id "PA";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	CDS	13	2163	.	+	0	gene_id "PA";transcript_id "PA";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	gene	13	772	.	+	.	gene_id "PA-X";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	transcript	13	772	.	+	.	gene_id "PA-X";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	CDS	13	582	.	+	0	gene_id "PA-X";transcript_id "PA-X";
+A_Hong_Kong_4801_2014_834577_PA	GenerateGTF	CDS	584	772	.	+	1	gene_id "PA-X";transcript_id "PA-X";

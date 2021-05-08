@@ -1,0 +1,3 @@
+A_Michigan_45_2015_PB2	GenerateGTF	gene	16	2295	.	+	.	gene_id "PB2";
+A_Michigan_45_2015_PB2	GenerateGTF	transcript	16	2295	.	+	.	gene_id "PB2";
+A_Michigan_45_2015_PB2	GenerateGTF	CDS	16	2295	.	+	0	gene_id "PB2";transcript_id "PB2";

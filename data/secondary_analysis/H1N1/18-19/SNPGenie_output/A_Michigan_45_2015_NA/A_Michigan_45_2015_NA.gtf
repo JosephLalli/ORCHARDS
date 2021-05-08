@@ -1,0 +1,3 @@
+A_Michigan_45_2015_NA	GenerateGTF	gene	9	1418	.	+	.	gene_id "NA";
+A_Michigan_45_2015_NA	GenerateGTF	transcript	9	1418	.	+	.	gene_id "NA";
+A_Michigan_45_2015_NA	GenerateGTF	CDS	9	1418	.	+	0	gene_id "NA";transcript_id "NA";

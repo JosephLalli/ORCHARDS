@@ -1,0 +1,3 @@
+B_Phuket_3073_2013_HA	GenerateGTF	gene	20	1774	.	+	.	gene_id "HA";
+B_Phuket_3073_2013_HA	GenerateGTF	transcript	20	1774	.	+	.	gene_id "HA";
+B_Phuket_3073_2013_HA	GenerateGTF	CDS	20	1774	.	+	0	gene_id "HA";transcript_id "HA";

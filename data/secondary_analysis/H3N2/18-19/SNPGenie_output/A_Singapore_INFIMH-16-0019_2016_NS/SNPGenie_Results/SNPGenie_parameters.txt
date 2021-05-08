@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: 0.01
+SLIDING WINDOW LENGTH: 50
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: /segmentdir/A_Singapore_INFIMH-16-0019_2016_NS.vcf
+REFERENCE FASTA FILE: User submitted file: /segmentdir/A_Singapore_INFIMH-16-0019_2016_NS.fasta
+GTF FILE: User submitted file: /segmentdir/A_Singapore_INFIMH-16-0019_2016_NS.gtf
+COMPLEMENT MODE: No

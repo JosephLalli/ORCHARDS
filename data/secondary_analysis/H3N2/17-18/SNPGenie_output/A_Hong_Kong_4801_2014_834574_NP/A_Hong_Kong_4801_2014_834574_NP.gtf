@@ -1,0 +1,3 @@
+A_Hong_Kong_4801_2014_834574_NP	GenerateGTF	gene	34	1530	.	+	.	gene_id "NP";
+A_Hong_Kong_4801_2014_834574_NP	GenerateGTF	transcript	34	1530	.	+	.	gene_id "NP";
+A_Hong_Kong_4801_2014_834574_NP	GenerateGTF	CDS	34	1530	.	+	0	gene_id "NP";transcript_id "NP";

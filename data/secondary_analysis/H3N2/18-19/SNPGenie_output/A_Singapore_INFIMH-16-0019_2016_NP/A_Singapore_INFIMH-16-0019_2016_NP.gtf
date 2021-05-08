@@ -1,0 +1,3 @@
+A_Singapore_INFIMH-16-0019_2016_NP	GenerateGTF	gene	34	1530	.	+	.	gene_id "NP";
+A_Singapore_INFIMH-16-0019_2016_NP	GenerateGTF	transcript	34	1530	.	+	.	gene_id "NP";
+A_Singapore_INFIMH-16-0019_2016_NP	GenerateGTF	CDS	34	1530	.	+	0	gene_id "NP";transcript_id "NP";

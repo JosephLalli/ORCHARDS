@@ -1,0 +1,7 @@
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	gene	15	852	.	+	.	gene_id "NEP";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	transcript	15	852	.	+	.	gene_id "NEP";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	CDS	15	44	.	+	0	gene_id "NEP";transcript_id "NEP";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	CDS	517	852	.	+	1	gene_id "NEP";transcript_id "NEP";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	gene	15	707	.	+	.	gene_id "NS1";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	transcript	15	707	.	+	.	gene_id "NS1";
+A_Hong_Kong_4801_2014_834575_NS	GenerateGTF	CDS	15	707	.	+	0	gene_id "NS1";transcript_id "NS1";

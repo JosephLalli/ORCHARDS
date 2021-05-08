@@ -1,0 +1,6 @@
+B_Phuket_3073_2013_NA	GenerateGTF	gene	35	337	.	+	.	gene_id "NB";
+B_Phuket_3073_2013_NA	GenerateGTF	transcript	35	337	.	+	.	gene_id "NB";
+B_Phuket_3073_2013_NA	GenerateGTF	CDS	35	337	.	+	0	gene_id "NB";transcript_id "NB";
+B_Phuket_3073_2013_NA	GenerateGTF	gene	42	1442	.	+	.	gene_id "NA";
+B_Phuket_3073_2013_NA	GenerateGTF	transcript	42	1442	.	+	.	gene_id "NA";
+B_Phuket_3073_2013_NA	GenerateGTF	CDS	42	1442	.	+	0	gene_id "NA";transcript_id "NA";

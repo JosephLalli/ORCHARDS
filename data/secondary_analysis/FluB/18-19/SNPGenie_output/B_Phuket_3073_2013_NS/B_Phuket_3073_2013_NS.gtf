@@ -1,0 +1,7 @@
+B_Phuket_3073_2013_NS	GenerateGTF	gene	27	1050	.	+	.	gene_id "NEP";
+B_Phuket_3073_2013_NS	GenerateGTF	transcript	27	1050	.	+	.	gene_id "NEP";
+B_Phuket_3073_2013_NS	GenerateGTF	CDS	27	59	.	+	0	gene_id "NEP";transcript_id "NEP";
+B_Phuket_3073_2013_NS	GenerateGTF	CDS	715	1050	.	+	1	gene_id "NEP";transcript_id "NEP";
+B_Phuket_3073_2013_NS	GenerateGTF	gene	27	872	.	+	.	gene_id "NS1";
+B_Phuket_3073_2013_NS	GenerateGTF	transcript	27	872	.	+	.	gene_id "NS1";
+B_Phuket_3073_2013_NS	GenerateGTF	CDS	27	872	.	+	0	gene_id "NS1";transcript_id "NS1";

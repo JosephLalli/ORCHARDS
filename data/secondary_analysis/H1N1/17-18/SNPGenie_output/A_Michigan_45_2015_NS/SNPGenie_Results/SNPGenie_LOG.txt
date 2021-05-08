@@ -1,0 +1,33 @@
+file	product	site	LOG
+NA	NA	NA	SNPGenie initiated at local time Sun Apr 18 07:17:17 2021
+temp_vcf4_18VR002051.vcf	NA	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002051.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR002051.vcf	NEP	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002051.vcf	NEP	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR002051.vcf	NS1	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002051.vcf	NS1	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NA	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NEP	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NEP	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NS1	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR002899.vcf	NS1	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NA	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NEP	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NEP	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NS1	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR003450.vcf	NS1	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR004380.vcf	NA	682	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004380.vcf	NA	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR004380.vcf	NEP	682	Variant 'C' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004380.vcf	NEP	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NA	248	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NA	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NA	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NEP	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NEP	N/A	A total of 1 variants have been excluded because they fall below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NS1	248	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NS1	572	Variant 'A' excluded from analysis because it falls below the minimum minor allele frequency
+temp_vcf4_18VR004487.vcf	NS1	N/A	A total of 2 variants have been excluded because they fall below the minimum minor allele frequency
+NA	NA	NA	SNPGenie completed at local time Sun Apr 18 07:21:15 2021. The process took 238.00 secs, i.e., 3 mins and 58.00 secs

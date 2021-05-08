@@ -1,0 +1,3 @@
+B_Phuket_3073_2013_PB1	GenerateGTF	gene	8	2266	.	+	.	gene_id "PB1";
+B_Phuket_3073_2013_PB1	GenerateGTF	transcript	8	2266	.	+	.	gene_id "PB1";
+B_Phuket_3073_2013_PB1	GenerateGTF	CDS	8	2266	.	+	0	gene_id "PB1";transcript_id "PB1";
