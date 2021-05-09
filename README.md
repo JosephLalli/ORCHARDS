@@ -1,8 +1,8 @@
-## ORCHARDS
+# ORCHARDS
 
 This is the repository for data and software used in the analyses for "Antigenic changes to influenza preferentially accumulate during transmission" {citation}
 
-# Overview
+## Overview
 --------
 
     ORCHARDS
@@ -27,7 +27,7 @@ This is the repository for data and software used in the analyses for "Antigenic
 
     
   --------
-# Dependencies
+## Dependencies
 
 -vcfClass
 -Sniffles2
@@ -38,7 +38,7 @@ The consensus sequence analysis and antigenic analysis relies on [muscle](http:/
 
 Also the R analysis relies heavily on the package HIVEr which contains functions that are commonly used in the analysis. That can be found [here](https://github.com/jtmccr1/HIVEr) and can be installed using devtools. 
 
-# Reproducing the analysis
+## Reproducing the analysis
 
 To reproduce the analysis reported in the paper, please do the following:
 
