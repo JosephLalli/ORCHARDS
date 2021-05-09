@@ -17,9 +17,9 @@ This is the repository for data and software used in the analyses for "Antigenic
     |- scripts/           # code used to process data
     |  |- primary_analysis/    # Sniffles 2 config file, 
     |  |- secondary_analysis/ # Functions applied to vcf files/SNPGenie results to produce figures
-    |  |  |- data_cleaning_scripts # code used to clean SNP calls and generate dataframes
-    |  |  |- pre_processing_scripts # code used to perform analyses used in figure generation (eg, )
-    |  |  |- figures # code used to generate figures in paper. Includes both notebooks for each figure, and tools created to create graphics/statisical analyses (eg error bars).
+    |     |- data_cleaning_scripts # code used to clean SNP calls and generate dataframes
+    |     |- pre_processing_scripts # code used to perform analyses used in figure generation (eg, )
+    |     |- figures # code used to generate figures in paper. Includes both notebooks for each figure, and tools created to create graphics/statisical analyses (eg error bars).
     |
     |- results         # all output from workflows and analyses
     |  |- figures/     # manuscript figures
