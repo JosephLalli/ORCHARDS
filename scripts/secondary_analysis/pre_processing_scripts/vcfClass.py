@@ -1,16 +1,9 @@
-#Updated 5/17/2020
-#Updated again 4/11/21
-
 import pandas as pd
-import os,sys
+import os
 import gzip
 from Bio import SeqIO
 from Bio.Seq import Seq
 import pysam
-import os,sys
-from collections import Counter, defaultdict
-from operator import itemgetter
-from scipy import stats
 import numpy as np
 
 
@@ -21,7 +14,7 @@ class VCF:
 	def __init__ (self, location, refFile=None, gtfFile=None, bamfiles={}):
 		self.vcfFileName = location
 
-		#handle gz files:
+		# handle gz files:
 		try:
 			with open(location, 'r') as vcffile:#imgigi
 				self._vcflines = vcffile.readlines()
@@ -34,31 +27,31 @@ class VCF:
 
 		self._rowstoskip = self._getVCFStart()
 
-		self.header = Header(self._vcflines[0:self._rowstoskip-1])
+		self.header = Header(self._vcflines[0:self._rowstoskip - 1])
 		self.reference = {}
 		if refFile:
 			self.addReferenceFile(refFile)
 		self.gtffile = gtfFile
 		self.refFile = refFile
-		self.bamfiles={}
+		self.bamfiles = {}
 
 		self.samples = []
-		self.samples = self._vcflines[self._rowstoskip-1].strip().split('\t')[9:]
+		self.samples = self._vcflines[self._rowstoskip - 1].strip().split('\t')[9:]
 
 		self.mutations = [MutCall(row, [sample for sample in self.samples]) for row in self._vcflines[self._rowstoskip:]]
 		self.SNPs = [mut for mut in self.mutations if mut.type == 'SNP']
 		self.indels = [mut for mut in self.mutations if mut.type == 'insertion' or mut.type == 'deletion']
-		self._hashedmuts = {mut.chrom:{int(mut1.pos):mut1 for mut1 in self.mutations if mut1.chrom == mut.chrom} for mut in self.mutations}
-		self.read_tsv_args = {'sep':'\t', 'keep_default_na':False, 'na_values':['-1.#IND', '1.#QNAN', '1.#IND', '-1.#QNAN', '#N/A','N/A', '#NA', 'NULL', 'NaN', '-NaN', 'nan', '-nan']}
+		self._hashedmuts = {mut.chrom: {int(mut1.pos): mut1 for mut1 in self.mutations if mut1.chrom == mut.chrom} for mut in self.mutations}
+		self.read_tsv_args = {'sep': '\t', 'keep_default_na': False, 'na_values': ['-1.#IND', '1.#QNAN', '1.#IND', '-1.#QNAN', '#N/A', 'N/A', '#NA', 'NULL', 'NaN', '-NaN', 'nan', '-nan']}
 
 		self.add_bamfile_locations(bamfiles)
 
 	def _getVCFStart(self):
 		rowstoskip = 0
-		#Opens stresentative as a text file and identifies the row in which our data begins
+		# Opens resentative vcf as a text file and identifies the row in which our data begins
 		for index, line in enumerate(self._vcflines):
 			if "#CHROM" in line:
-				rowstoskip = index+1
+				rowstoskip = index + 1
 				break
 		return rowstoskip
 
@@ -66,23 +59,23 @@ class VCF:
 		self.refFile = ref
 		with open(ref, 'r') as r:
 			ref = SeqIO.parse(r, 'fasta')
-			self.reference = {seq.id:str(seq.seq) for seq in ref}
+			self.reference = {seq.id: str(seq.seq) for seq in ref}
 
-	def averageWithVCF(self,otherVCF,newSampleName=None):
+	def averageWithVCF(self, otherVCF, newSampleName=None):
 		'''
 		*assumes one sample per vcf*
 		take intersection of mutations and average their coverages/frequencies etc.
 		'''
 		print (f'Averaging {self} with {otherVCF}')
 		
-		mutsnotinotherVCF = {(mut.chrom,mut.pos) for mut in self.mutations} #set
+		mutsnotinotherVCF = {(mut.chrom, mut.pos) for mut in self.mutations}
 		
 		for mut in otherVCF:
 			try:
 				self._hashedmuts[mut.chrom][mut.pos] = self._hashedmuts[mut.chrom][mut.pos].average(mut)
-				mutsnotinotherVCF.discard((mut.chrom,mut.pos))
+				mutsnotinotherVCF.discard((mut.chrom, mut.pos))
 				if self._hashedmuts[mut.chrom][mut.pos] == None:
-					mutsnotinotherVCF.add((mut.chrom,mut.pos))
+					mutsnotinotherVCF.add((mut.chrom, mut.pos))
 			except KeyError:
 				pass
 			
@@ -182,23 +175,16 @@ class VCF:
 		return [mutation for mutation in self.mutations \
 			if (mutation.chrom == chrom and mutation.pos >= start and mutation.pos < end)]
 
-	# def benjamini_hochberg_pfilter(self, pvalues, alpha=0.05):
-		
-	# def apply_position_filter_to_sample(self, sample)
 	def apply_position_filter(self, removeFails = True, signifigance_at = 0.05, removeFailsMethod = 'Bonferroni', in_read_cutoff=0.1, freq_cutoff=0.01):
 		#count mutations deleted for fun
 		if removeFailsMethod == 'Bonferroni':
 				#Number of comparisons that will be made is number of mutations * number of samples
-				# cutoff = signifigance_at/(len(self.mutations)*len(self.samples))
 				df = self.to_dataframe()
 				self.pval_cutoff = signifigance_at/len(df.loc[df.FREQ > 0.01])
 		else:
 			self.pval_cutoff = signifigance_at
 
 		failcount = 0
-		# filter_sample = functools.partial(apply_position_filter_to_sample, removeFails = removeFails, cutoff=cutoff, in_read_cutoff=0.1)
-		# with mp.Pool(8) as pool:
-		# 	pool.map(apply_position_filter_to_sample, )
 		for sample in self.samples:
 			try:
 				bamfile = self.bamfiles[sample]
@@ -249,13 +235,6 @@ class VCF:
 				print('This function requires VCF to have a reference sequence.')
 				return None
 
-		# self.refFile = ref
-		# with open(ref, 'r') as r:
-		# 	refseq = SeqIO.parse(r, 'fasta')
-		# 	self.reference = {seq.id:str(seq.seq) for seq in ref}
-
-		# refseq = list(SeqIO.parse(refseq, 'fasta'))
-
 		concatrefseq = ""
 		segStarts = dict()
 		segCoords = dict()
@@ -270,8 +249,8 @@ class VCF:
 
 		df = self.to_dataframe()
 
-		#only report muts that are within cutoff_freq; adjust all other read counts to 0/1
-		#first adjust SNPs under cutoff_freq (all ref)
+		# only report muts that are within cutoff_freq; adjust all other read counts to 0/1
+		# first adjust SNPs under cutoff_freq (all ref)
 		df.loc[(df.FREQ > 0) & (df.FREQ < cutoff_freq), 'AD'] = 0
 		df.loc[(df.FREQ > 0) & (df.FREQ < cutoff_freq), 'DP'] = df.loc[(df.FREQ > 0) & (df.FREQ < cutoff_freq), 'RD']
 		df.loc[(df.FREQ > 0) & (df.FREQ < cutoff_freq), 'FREQ'] = 0
@@ -339,7 +318,7 @@ class MutCall:
 		self._rawlist = row.split('\t')
 		self.samples = samples
 		self.chrom = self._rawlist[0]
-		#internal representation will be 0-indexed. Will export VCFs as 1-indexed, all others exported as 0-indexed.
+		#internal representation will be 0-indexed. Will export VCFs as 1-indexed, all other export formats as 0-indexed.
 		self.pos = int(self._rawlist[1])-1
 		self.id = self._rawlist[2]
 		self.ref = self._rawlist[3]
@@ -376,9 +355,6 @@ class MutCall:
 
 	def stillHasSNPs(self):
 		return np.array([self.hasSample(sample) for sample in self.samples]).any()
-
-	def bootstrap(self, array, bootsize):
-		return np.random.choice(array, len(array)*bootsize, replace=True).reshape(-1, bootsize).mean(axis=0)
 
 	def apply_pos_filter(self, bam, sample, cutoff=0.05, removeFails=True, in_read_cutoff=0.1, min_base_quality=30, min_mapping_quality=10, log_loc='snp_filter_log.log'):
 		'''given pysam alignment object and relevent sample, determine whether average
@@ -419,23 +395,12 @@ class MutCall:
 		elif (len(positions[self.ref.upper()]) <= 1) or (len(positions[self.alt.upper()]) <= 1):
 			p_value = 1 #Can't do pvalue calc on one position
 		else:
-			# ref_positions = np.array(positions[self.ref.upper()])
-			# alt_positions = np.array(positions[self.alt.upper()])
-			# ref_positions = np.unique(np.array(positions[self.ref.upper()]))
-			# alt_positions = np.unique(np.array(positions[self.alt.upper()]))
-			ref_positions = self.bootstrap(np.array(positions[self.ref.upper()]), int(1/cutoff)+1)#np.array([np.mean(np.random.choice(np.array(positions[self.ref.upper()]), len(positions[self.ref.upper()]), replace=True)) for _ in range(int(1/cutoff)+1)])
-			alt_positions = self.bootstrap(np.array(positions[self.alt.upper()]), int(1/cutoff)+1)#np.array([np.mean(np.random.choice(np.array(positions[self.alt.upper()]), len(positions[self.alt.upper()]), replace=True)) for _ in range(int(1/cutoff)+1)])
-			# ref_positions = np.random.choice(np.array(positions[self.ref.upper()]), 5000, replace=True)
-			# alt_positions = np.random.choice(np.array(positions[self.alt.upper()]), 5000, replace=True)
+			ref_positions = bootstrap(np.array(positions[self.ref.upper()]), int(1/cutoff)+1)
+			alt_positions = bootstrap(np.array(positions[self.alt.upper()]), int(1/cutoff)+1)
+
 			bigger_than_pvalue = np.mean(ref_positions>alt_positions)
 			less_than_pvalue = np.mean(ref_positions<alt_positions)
 			p_value = min(bigger_than_pvalue, less_than_pvalue)
-			# p_value = np.mean(np.abs(ref_positions-alt_positions) < 0.05)
-			# print(p_value)
-			# tstat, p_value = stats.mannwhitneyu(ref_positions, alt_positions)
-
-			# tstat, p_value = stats.mannwhitneyu(upsampled_ref, upsampled_alt)
-			# tstat, p_value = stats.ttest_ind(positions[self.ref.upper()], positions[self.alt.upper()],equal_var=False)
 
 		sampmut.avg_ref_pos = avg_ref_pos
 		sampmut.avg_alt_pos = avg_alt_pos
@@ -458,10 +423,8 @@ class MutCall:
 		# within last 10% of end of read, the mutation is not valid.
 		close_to_end_of_read = np.mean(minor_allele_positions) < location_cutoff
 		sig_diff_pos_from_major_allele = (p_value < cutoff)
-		# print()
-		actually_different_positions = True #np.abs(np.mean(minor_allele_positions)-np.mean(dominant_allele_positions)) > 0.05
 
-		if sig_diff_pos_from_major_allele and actually_different_positions:
+		if sig_diff_pos_from_major_allele:
 			sampmut.position_filter = 'FAIL'
 			with open(log_loc, 'a') as log:
 				print (f'For sample {sample}, mutation {self.chrom.split("_")[-1]} {self.pos} failed read position filter.',file=log)
@@ -557,7 +520,7 @@ class MutCall:
 		altcodon = refcodon[:inAApos]+self.alt+refcodon[inAApos+1:]
 		altAA = str(Seq(altcodon).translate())
 
-		#currently not calling indels, this is incomplete (cannot handle partial indels, multiple )
+		# currently not calling indels, this is incomplete (cannot handle partial indels, multiple alts)
 		if self.type == 'deletion':
 			refAA = '-'*int(len(self.ref)/3)
 			if len(refAA) == 0:
@@ -781,3 +744,6 @@ def createTranscripts(coding_regions, ref_segments):
 				sequence_chunk = ref_segments[segment][start:stop+1]
 				transcripts[gene] = transcripts[gene] + sequence_chunk	 # append each piece of the transcript together 
 	return transcripts
+
+def bootstrap(self, array, bootsize):
+	return np.random.choice(array, len(array)*bootsize, replace=True).reshape(-1, bootsize).mean(axis=0)
